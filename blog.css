@@ -83,3 +83,14 @@ header .menu{
         width: 90%;
     }
 }
+
+.api-page{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.api-page img{
+    width: 100%;
+    margin: 5px 0;
+}
